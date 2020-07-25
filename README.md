@@ -1,6 +1,6 @@
 # Docker Ansible
 
-Dockerfile for ansible image
+Dockerfile for ansible images
 
 - Ansible version: 2.9.9
 - Python: 3.8.5
